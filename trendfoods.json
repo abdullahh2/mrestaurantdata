@@ -6,5 +6,15 @@
         "discount": 5,
         "name": "",
         "kitchen": ""
+    },
+    {
+        "id": 0,
+        "image": "",
+        "price": 36,
+        "discount": 0,
+        "name": "",
+        "kitchen": ""
     }
 ]
+
+
