@@ -1,7 +1,42 @@
 [
     {
         "id": 0,
-        "icon": "",
-        "name": ""
+        "image": "assets/images/categories/anayemek.jpg",
+        "name": "Ana Yemek"
+    },
+    {
+        "id": 1,
+        "image": "assets/images/categories/arayemek.jpg",
+        "name": "Ara Yemek"
+    },
+    {
+        "id": 2,
+        "image": "assets/images/categories/hamurisi.jpg",
+        "name": "Hamur İşi"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/categories/icecekler.jpg",
+        "name": "İçecekler"
+    },
+    {
+        "id": 4,
+        "image": "assets/images/categories/kahvalti.jpg",
+        "name": "Kahvaltı"
+    },
+    {
+        "id": 5,
+        "image": "assets/images/categories/mezeler.jpg",
+        "name": "Meze"
+    },
+    {
+        "id": 6,
+        "image": "assets/images/categories/tatlilar.jpg",
+        "name": "Tatlı"
+    },
+    {
+        "id": 7,
+        "image": "assets/images/categories/lahmacun.jpg",
+        "name": "Lahmacun"
     }
 ]
